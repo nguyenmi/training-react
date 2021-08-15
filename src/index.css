@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+.navbar a {
+  margin-right: 10px;
+  color: rgba(0,0,0, .8);
+}
+.navbar a:hover {
+  color: green;
+}
+
+thead tr,tbody tr {
+  text-align: center;
+}
+
+td img{
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+}
+
+table td{
+ vertical-align: inherit!important;
+}
+
+.form-group{
+  width: 50%;
+}
+
+input{
+  width: 100%;
+}
+
+.adduser{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
